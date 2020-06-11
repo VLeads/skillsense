@@ -1,0 +1,48 @@
+.jobs{
+  font-size: 4rem;
+  color: rgb(74, 113, 241);
+}
+.job-card{
+  border: 1px solid;
+  margin: 3px;
+}
+
+.p{
+  overflow: scroll;
+}
+.motivation{
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.button{
+    margin: 2px;
+    position:relative;
+    text-align: center;
+    border-radius:4px;
+    text-decoration: none;
+    font-family:'PT Sans',helvetica;
+    background: #69c773;
+    display:inline-block;
+    font-size: 17px !important;
+    padding: 6px 6px 6px 6px;
+    color: #FFF;
+    float: right;
+}
+.clear{
+  clear: both;
+}
+.job-card:hover{
+  border: 1px solid;
+padding: 10px;
+box-shadow: 5px 10px 8px #888888;
+}
+
+.job-pic{
+  height: 100px;
+  margin-right: 20px;
+  float: left;
+}
+.name{
+  
+}
